@@ -1,0 +1,6 @@
+[submodule "pandas"]
+	path = pandas
+	url = https://github.com/pandas-dev/pandas
+[submodule "refs/pandas"]
+	path = refs/pandas
+	url = https://github.com/pandas-dev/pandas
